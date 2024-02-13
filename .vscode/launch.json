@@ -1,0 +1,12 @@
+{
+	"configurations": [
+		{
+			"name": "BrightScript Debug: Launch",
+			"type": "brightscript",
+			"request": "launch",
+			"host": "192.168.3.123",
+			"password": "santosfc2010",
+			"rootDir": "${workspaceFolder}"
+		}
+	]
+}
